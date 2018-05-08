@@ -1,36 +1,11 @@
-## Welcome to GitHub Pages
+## Home - About me
 
-You can use the [editor on GitHub](https://github.com/LiberPH/LiberPH.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am writer and a Data Scientist. I love to draw and to hear good stories. Currently I'm working hard to improve my Data Science skills with the aim to use them to gain insights in biological (specially medical) data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**To check the things I write go [here](https://libertadph.wordpress.com/).**
+**To have a look on my drawings and artistics stuff go either [here](https://magicsuckingmyspine.tumblr.com/) or [here](https://rtonalli.deviantart.com/).**
+**If you want to check my code or tutorials go [here](https://github.com/LiberPH).**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiberPH/LiberPH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
