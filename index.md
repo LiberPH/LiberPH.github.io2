@@ -6,6 +6,13 @@ Hello! I am writer and a Data Scientist. I love to draw and to hear good stories
 **To have a look on my drawings and artistics stuff go either [here](https://magicsuckingmyspine.tumblr.com/) or [here](https://rtonalli.deviantart.com/).**
 **If you want to check my code or tutorials go [here](https://github.com/LiberPH).**
 
+___
+
+## Education
+
+
+
+
 
 ### Support or Contact
 
